@@ -2,9 +2,6 @@
 
 Pioneering prompt management and bi-directional text control for ChatGPT, Claude, and Gemini. Your ultimate AI workflow companion.
 
-![AI ChatWorks Screenshot](https-placeholder-for-your-screenshot.png)
-*(Suggestion: Replace this with a screenshot or GIF of the extension in action)*
-
 AI ChatWorks is a comprehensive browser extension designed to enhance AI chatbot workflows for users of all languages. With specialized RTL support, intelligent prompt management, and productivity optimization tools, it transforms how you interact with leading AI platforms.
 
 ---
@@ -88,7 +85,7 @@ This project thrives on community feedback! If you encounter a bug, have a featu
 
 ### Changelog
 
-**Version 1.0.0 (September 20, 2025)**
+**Version 1.0.0 (October 07, 2025)**
 * Official public release!
 * NEW: Standardized versioning and prepared all package files for the Chrome Web Store.
 * FIX: Completed all Hebrew translations for a fully localized experience.
